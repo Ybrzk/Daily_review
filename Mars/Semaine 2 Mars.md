@@ -1,8 +1,8 @@
-#Semaine du 09/03/2020 au 13/03/2020
+Semaine du 09/03/2020 au 13/03/2020
 
-##09/03
+09/03
 
-###Objectifs et livrables du jour:
+Objectifs et livrables du jour:
 
 -Poser le périmètre du domaine de l'étude
 -Préparer les questions
@@ -10,10 +10,10 @@
 -Mettre en place un ensemble de question spécifique au besoins
 -Proposer une Note de cadrage
 
-###Outils utilisés:
+Outils utilisés:
 
 - fichier .md
 
-###Difficultés rencontrés:
+Difficultés rencontrés:
 
 -Trouver les questions spécifique au besoin
