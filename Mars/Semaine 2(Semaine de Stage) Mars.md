@@ -96,3 +96,21 @@
 - Mise en page du modèle organisationnels de flux 
 - Préparation des questions relative à l'amélioration du MOF
 
+## 13/03/2020:
+
+### *Objectifs et livrable du jour:*
+- Préparation de la mise en page du compte rendu d'interviews 
+- Préparation de nouvelles questions cette fois-ci dirigé vers M. le consul 
+- Mise au point avec le formateur référent et coach: Samba Cissé 
+- Revoir les points essentiels pris en compte dans la note de cadrage 
+- Penser à un second modèle de MOF plus spécifique et plus concis 
+
+### *Outils utilisés:*
+
+- StackEdit 
+- BlocNotes
+
+### *Difficultés rencontrés:*
+- Avoir une bonne vision d'ensemble
+-  Granulariser les bonnes informations spécifique au besoin
+
